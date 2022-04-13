@@ -1,0 +1,65 @@
+.background{
+    background-color:rgb(235, 221, 212) ;
+}
+
+
+.graphs{
+    width:70%;
+    height: auto;
+    padding:80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.header{
+    top:5px;
+    left:5px;
+    right: 5px;
+    height:100px;
+    align-content:center;
+    z-index:1;
+}
+
+.footer{
+    height:100px;
+    background-color: rgb(209, 174, 199)
+}
+
+.link{
+    text-align:center;
+}
+
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:black;
+  }

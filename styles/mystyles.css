@@ -1,0 +1,64 @@
+p a{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+
+p{
+   text-align: center;
+}
+
+.background{
+   background-color:rgb(235, 221, 212) ;
+}
+
+.copyright{
+   text-align: center;
+   color:gray;
+}
+
+h3{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bold;
+}
+
+h2{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: x-large;
+   font-weight: bold;
+   margin: 20px;
+   text-align: center;
+}
+
+li{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: 200;
+}
+
+.family img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+.hobbies{
+   display: flex;
+   flex-wrap:wrap;
+   justify-content: space-evenly;
+}
+
+ .hobbies img{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-evenly;
+   padding: 5px;
+} 
+
+* {
+   margin: 0;
+   padding: 0;
+}
